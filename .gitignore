@@ -1,0 +1,21 @@
+# Compilation outputs
+sokoban.exe
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+
+# Generated/runtime files
+highscore.txt
+CPORTAhighscore.txt
+soko001.txt
+cportatest.txt
+
+# OS/IDE metadata
+.vscode/
+.idea/
+*.suo
+*.user
+Thumbs.db
+Desktop.ini
