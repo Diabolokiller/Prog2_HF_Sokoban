@@ -6,6 +6,10 @@ sokoban.exe
 *.lib
 *.dll
 
+# Allow committing third-party libraries and DLLs
+!thirdparty/**/*.a
+!thirdparty/**/*.dll
+
 # Generated/runtime files
 highscore.txt
 CPORTAhighscore.txt
